@@ -63,6 +63,12 @@ O notebook está organizado nas seguintes etapas:
 
 Versões completas em [`requirements.txt`](./requirements.txt).
 
+## Conteúdo do repositório
+
+- [`Notebook_score.ipynb`](./Notebook_score.ipynb) — notebook completo, com código, comentários e saídas de cada etapa já executadas.
+- [`probab_inadimplencia.csv`](./probab_inadimplencia.csv) — previsões finais de probabilidade de inadimplência geradas pelo modelo.
+- [`requirements.txt`](./requirements.txt) — bibliotecas e versões utilizadas.
+
 ## Próximos passos
 
 - Calibração explícita das probabilidades (ex: `CalibratedClassifierCV`) e comparação com a calibração natural do modelo.
